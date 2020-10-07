@@ -36,7 +36,7 @@ public class Question_50 {
 
             }
         }
-        return ' ';
+        return null;
 
     }
 
