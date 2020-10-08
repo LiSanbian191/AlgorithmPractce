@@ -32,8 +32,6 @@ public class Question_57 {
                 left++;
             if(arr[left]+arr[right]>s&&left<right)
                 right--;
-
-
         }
 
         return result;

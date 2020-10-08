@@ -53,7 +53,6 @@ public class Question_54 {
                 target = root;
                 return target ;
             }
-
             j--;
         }
         if(target==null&&root.getLchildNode()!=null)
